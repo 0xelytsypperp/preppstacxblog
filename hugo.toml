@@ -84,7 +84,7 @@ titel = "Preppy's Blog"
     title = "Preppy's Blog"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "The Digital Village - Adventures in Cybersecurity & CTFs"
       owner = ""
       keywords = ""
       copyright = ""
