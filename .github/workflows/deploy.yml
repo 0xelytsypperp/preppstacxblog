@@ -22,7 +22,7 @@ jobs:
           key: ${{ secrets.SERVER_SSH_KEY }}
           script: |
             set -ex
-            cd ~/preppstablog
+            cd ~/preppstacxblog
             git pull origin main
             git submodule update --init --recursive
             hugo
