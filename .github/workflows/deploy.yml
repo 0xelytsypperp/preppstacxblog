@@ -23,7 +23,7 @@ jobs:
           script: |
             set -ex
             cd ~/preppstacxblog
-            git pull origin main
+            git pull origin master
             git submodule update --init --recursive
             hugo
             echo "Hugo build fertig"
