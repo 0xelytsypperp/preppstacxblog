@@ -1,0 +1,8 @@
+.runde-bild {
+  border-radius: 50%;
+  width: 200px;   /* Passe die Größe bei Bedarf an */
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
