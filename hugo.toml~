@@ -81,7 +81,7 @@ titel = "Preppy's Blog"
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Preppy's Blog - Adventure in Cybersecurity & CTFs"
+    title = "Preppy's Blog"
 
     [languages.en.params]
       subtitle = "The Digital Village - Adventures in Cybersecurity & CTFs"
